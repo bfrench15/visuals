@@ -1,6 +1,6 @@
 #' Package Installation and Calling
 #'
-#' Quickly install and load packages for creating visual analytics in R.
+#' @description Quickly install and load packages for creating visual analytics in R.
 #'
 vizpackages <- function() {
   install.packages("colourpicker")

@@ -2,7 +2,7 @@
 #'
 #' Easily create basic plots using gggplot2
 #'
-#' @param 'mpg' data used for examples in basic plots
+#' @details  'mpg' data used for examples in basic plots
 #'
 #' Create a scatter plot
 #' @example scatterplot(mpg, cyl, cty)

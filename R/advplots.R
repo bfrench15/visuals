@@ -1,10 +1,8 @@
-#'
-#'
 #' Advanced Plot Functions
 #'
 #' Easily create more advanced plots using ggplot2
 #'
-#' @param 'mtcars' and 'mpg' used for examples
+#' @details 'mtcars' and 'mpg' used for examples
 #'
 #' Create a counts plot
 #' @example count.plot(mpg, cty, hwy)
